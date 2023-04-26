@@ -6,7 +6,7 @@ GymPass style app
 
 **Autenticação e Cadastro**
 
-- [ ] Deve ser possível se cadastrar;
+- [x] Deve ser possível se cadastrar;
 - [ ] Deve ser possível se autenticar;
 
 **Usuário**
@@ -30,7 +30,7 @@ GymPass style app
 
 **Usuário**
 
-- [ ] O usuário não pode se cadastrar com e-mail duplicado;
+- [x] O usuário não pode se cadastrar com e-mail duplicado;
 
 **Check-in**
 
@@ -45,7 +45,7 @@ GymPass style app
 
 ## 👨‍💻 Requisitos não-funcionais
 
-- [ ] A senha do usuário precisa estar criptografada;
-- [ ] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
+- [x] A senha do usuário precisa estar criptografada;
+- [x] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
 - [ ] Todas as listas de dados precisam estar paginadas com 20 itens por página;
 - [ ] O usuário deve ser indentificado por um JWT;
