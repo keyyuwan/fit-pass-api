@@ -7,7 +7,7 @@ GymPass style app
 **Autenticação e Cadastro**
 
 - [x] Deve ser possível se cadastrar;
-- [ ] Deve ser possível se autenticar;
+- [x] Deve ser possível se autenticar;
 
 **Usuário**
 
