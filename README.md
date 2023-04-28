@@ -35,7 +35,7 @@ GymPass style app
 **Check-in**
 
 - [x] O usuário não pode realizar 2 check-ins no mesmo dia;
-- [ ] O usuário não pode realizar check0in se não estiver perto (100m) da academia;
+- [ ] O usuário não pode realizar check-in se não estiver perto (100m) da academia;
 - [ ] O check-in só pode ser validado até 20 minutos após criado;
 - [ ] O check-in só pode ser validado por administradores;
 
