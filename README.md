@@ -17,7 +17,7 @@ GymPass style app
 
 - [ ] Deve ser possível obter o número de check-ins realizados pelo usuário logado;
 - [ ] Deve ser possível o usuário obter seu histórico de check-ins;
-- [ ] Deve ser possível o usuário realizar check-in em uma academia;
+- [x] Deve ser possível o usuário realizar check-in em uma academia;
 - [ ] Deve ser possível validar o check-in de um usuário;
 
 **Academia**
@@ -34,7 +34,7 @@ GymPass style app
 
 **Check-in**
 
-- [ ] O usuário não pode realizar 2 check-ins no mesmo dia;
+- [x] O usuário não pode realizar 2 check-ins no mesmo dia;
 - [ ] O usuário não pode realizar check0in se não estiver perto (100m) da academia;
 - [ ] O check-in só pode ser validado até 20 minutos após criado;
 - [ ] O check-in só pode ser validado por administradores;
