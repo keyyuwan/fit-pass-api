@@ -23,7 +23,7 @@ GymPass style app
 **Academia**
 
 - [ ] Deve ser possível o usuário buscar por academias próximas;
-- [ ] Deve ser possível o usuário buscar academias pelo nome;
+- [x] Deve ser possível o usuário buscar academias pelo nome;
 - [x] Deve ser possível cadastrar uma academia;
 
 ## 📄 Regras de negócio
