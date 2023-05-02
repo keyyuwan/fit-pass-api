@@ -16,7 +16,7 @@ GymPass style app
 **Check-in**
 
 - [ ] Deve ser possível obter o número de check-ins realizados pelo usuário logado;
-- [ ] Deve ser possível o usuário obter seu histórico de check-ins;
+- [x] Deve ser possível o usuário obter seu histórico de check-ins;
 - [x] Deve ser possível o usuário realizar check-in em uma academia;
 - [ ] Deve ser possível validar o check-in de um usuário;
 
@@ -47,5 +47,5 @@ GymPass style app
 
 - [x] A senha do usuário precisa estar criptografada;
 - [x] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
-- [ ] Todas as listas de dados precisam estar paginadas com 20 itens por página;
+- [x] Todas as listas de dados precisam estar paginadas com 20 itens por página;
 - [ ] O usuário deve ser indentificado por um JWT;
