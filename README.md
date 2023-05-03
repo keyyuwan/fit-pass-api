@@ -11,7 +11,7 @@ GymPass style app
 
 **Usuário**
 
-- [ ] Deve ser possível obter o perfil de um usuário logado;
+- [x] Deve ser possível obter o perfil de um usuário logado;
 
 **Check-in**
 
