@@ -18,7 +18,7 @@ GymPass style app
 - [x] Deve ser possível obter o número de check-ins realizados pelo usuário logado;
 - [x] Deve ser possível o usuário obter seu histórico de check-ins;
 - [x] Deve ser possível o usuário realizar check-in em uma academia;
-- [ ] Deve ser possível validar o check-in de um usuário;
+- [x] Deve ser possível validar o check-in de um usuário;
 
 **Academia**
 
@@ -36,16 +36,16 @@ GymPass style app
 
 - [x] O usuário não pode realizar 2 check-ins no mesmo dia;
 - [x] O usuário não pode realizar check-in se não estiver perto (100m) da academia;
-- [ ] O check-in só pode ser validado até 20 minutos após criado;
-- [ ] O check-in só pode ser validado por administradores;
+- [x] O check-in só pode ser validado até 20 minutos após criado;
+- [x] O check-in só pode ser validado por administradores;
 
 **Academia**
 
-- [ ] A academia só pode ser cadastrada por administradores;
+- [x] A academia só pode ser cadastrada por administradores;
 
 ## 👨‍💻 Requisitos não-funcionais
 
 - [x] A senha do usuário precisa estar criptografada;
 - [x] Os dados da aplicação precisam estar persistidos em um banco PostgreSQL;
 - [x] Todas as listas de dados precisam estar paginadas com 20 itens por página;
-- [ ] O usuário deve ser indentificado por um JWT;
+- [x] O usuário deve ser indentificado por um JWT;
