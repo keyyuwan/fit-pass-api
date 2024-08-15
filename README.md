@@ -1,4 +1,4 @@
-# App
+# FitPass
 
 GymPass style app
 
