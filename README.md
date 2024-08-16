@@ -53,11 +53,19 @@ GymPass style app
 ## 🚀 Techs
 
 ✅ Node.js
+
 ✅ TypeScript
+
 ✅ Fastify
+
 ✅ Prisma
+
 ✅ Vitest
+
 ✅ Supertest
+
 ✅ Zod
+
 ✅ dayjs
+
 ✅ bcryptjs
